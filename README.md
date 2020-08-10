@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a Telegram Bot to manage my business!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I can forget to eat but not to code.
 
 
 ### A little bit about me.
