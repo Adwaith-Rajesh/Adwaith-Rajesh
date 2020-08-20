@@ -3,7 +3,7 @@
 ### Hi there, I'ts Adwaith Rajesh.
 
 ## I'm a Student and a Developer!
-- 🔭 I’m currently working on a Telegram Bot to manage my business!
+- 🔭 I’m currently working on a Telegram Bot news aggregator!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can forget to eat but not to code.
