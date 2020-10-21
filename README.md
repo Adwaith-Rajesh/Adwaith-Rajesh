@@ -4,7 +4,7 @@
 
 ## I'm a Student and a Developer!
 - 🔭 I’m currently working on nothing!
-- 🌱 I’m currently learning HTML/CSS/JS 🤣
+- 🌱 I’m currently learning Everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can forget to eat but not to code.
 
