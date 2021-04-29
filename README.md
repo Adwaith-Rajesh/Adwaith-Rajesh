@@ -16,7 +16,7 @@ And I believe that someday I can change the world.
 
 ### Connect with me:
 
-[<img align="left" alt="https://twitter.com/AdwaithRajesh5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/AdwaithRajesh5)
+[<img align="left" alt="https://twitter.com/AdwaithRajesh5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/AdwaithRajesh_)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/adwaith__rajesh/)
 <br />
 <br />
