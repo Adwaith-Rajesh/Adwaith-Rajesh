@@ -11,7 +11,7 @@
 
 ### A little bit about me.
 
-I'am a 12<sup>th</sup> grade student having an interest in programming and everything tech. My favourite language is Python.
+I'm a student having an interest in programming and everything tech. My favourite language is Python.
 And I believe that someday I can change the world.
 
 ### Connect with me:
