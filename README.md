@@ -32,5 +32,7 @@ And I believe that someday I can change the world.
 
 ---
 
+![Gihub stas](https://activity-graph.herokuapp.com/graph?username=Adwaith-Rajesh&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true)
+
 [![Adwaith's github stats](https://github-readme-stats.vercel.app/api?username=Adwaith-Rajesh)](https://github.com/anuraghazra/github-readme-stats)
 
