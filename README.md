@@ -7,8 +7,8 @@
 ### Hi there, I'ts Adwaith Rajesh.
 
 ## I'm a Student and a Developer!
-- 🔭 I’m currently working on [OnstroDB](https://github.com/Adwaith-Rajesh/onstro-db/)!
-- 🌱 I’m currently learning Everything 🤣
+- 🔭 I’m currently working on Nothing.
+- 🌱 I’m currently learning Data Science, GoLang, Shell Script 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can forget to eat but not to code.
 
