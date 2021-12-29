@@ -9,7 +9,7 @@
 ## I'm a Student and a Developer!
 - 🔭 I’m currently working on Nothing.
 - 🌱 I’m currently learning Data Science 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can forget to eat but not to code.
 
 
