@@ -2,8 +2,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdwaithRajesh_)
 [![Telegram](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adwaithrajesh5)
 
-<img align=right src="https://bn1302files.storage.live.com/y4mX_vOH3CteB9F1imUkhMDGKGgRG5FoQoGsEBwnbjAfbohROR0mpe1xJT_w5bDpB_IaBGiNs3I64F_yEHbsBWmrNZxg8OATEzS3vP5ln1uycPdyID7CxS4o1gnUW4bis2vGHlrhvS1a2nT2JdARzZhe2XJOS4-hUxgNdIgZEEOJEiE1oxtc6QcU1NN7tZrQ93Q?width=1145&height=1741&cropmode=none" width="350" height="465" />
-
 ### Hi there, I'ts Adwaith Rajesh.
 
 ## I'm a Student and a Developer!
