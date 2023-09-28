@@ -7,7 +7,7 @@
 ## I'm a Student and a Developer!
 - 🔭 I’m currently working on [LinearML](https://github.com/Adwaith-Rajesh/LinearML).
 - 🌱 I’m currently learning Data Science.
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can forget to eat but not to code.
 
 
