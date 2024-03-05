@@ -8,15 +8,13 @@
 
 - 🔭 I’m currently working on [LinearML](https://github.com/Adwaith-Rajesh/LinearML).
 - 🌱 I’m currently learning Data Science.
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can forget to eat but not to code.
 
 ### A little bit about me.
+Hey! 👋 I'm a student who's crazy about programming, especially Python. I dream of changing the world someday. I love diving into low-level stuff like C and ASM, and building tools from scratch—it's like solving puzzles for fun!
 
-I'm a student having an interest in programming and everything tech. My favorite language is Python.
-And I believe that someday I can change the world.
-I like to work on really low-level stuff, this includes messing with languages like C, ASM, and building tools and such.
-If you are interested in any of this.. let's talk 😄
+Oh, and I'm also super into data science and machine learning. Turning data into insights feels like unlocking secrets. If you're into any of this, let's chat! 😄
 
 There are projects that I'm currently working on.
 
