@@ -16,7 +16,6 @@ Hey! 👋 I'm a student who's crazy about programming, especially Python. I drea
 
 Oh, and I'm also super into data science and machine learning. Turning data into insights feels like unlocking secrets. If you're into any of this, let's chat! 😄
 
-There are projects that I'm currently working on.
+I'm currently working on.
 
-| <a href="https://github.com/Adwaith-Rajesh/LinearML"><img src="https://gitlab.com/adwaithrajesh/raw-files/-/raw/main/gh-invite-card.png" width="460px"></a> | <a href="https://github.com/Adwaith-Rajesh/buildme"><img src="https://gitlab.com/adwaithrajesh/raw-files/-/raw/main/buildme-invite-card.png" width="460px"></a> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+[![](https://github.com/Adwaith-Rajesh/yard/blob/master/docs/assets/logo.png?raw=true)](https://github.com/Adwaith-Rajesh/yard/tree/master)
