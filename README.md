@@ -6,10 +6,10 @@
 
 ## I'm a Student and a Developer!
 
-- 🔭 I’m currently working on [LinearML](https://github.com/Adwaith-Rajesh/LinearML).
+- 🔭 I’m currently working on [YARD](https://github.com/Adwaith-Rajesh/yard).
 - 🌱 I’m currently learning Data Science.
 - 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I can forget to eat but not to code.
+- ⚡ “What I cannot create, I do not understand” - _Richard Feynman_
 
 ### A little bit about me.
 Hey! 👋 I'm a student who's crazy about programming, especially Python. I dream of changing the world someday. I love diving into low-level stuff like C and ASM, and building tools from scratch—it's like solving puzzles for fun!
